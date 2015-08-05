@@ -3,7 +3,7 @@ languageCode = "de-DE"
 
 title = "jan nonnen"
 copyright = "Jan Nonnen"
-theme = "hyde"
+theme = "greyshade"
 
 canonifyurls = true
 paginate = 10
@@ -13,7 +13,7 @@ paginate = 10
 
 [author]
   name = "Jan Nonnen"
-
+  email = ""
 [params]
   themeColor = "theme-base-0b"
   description = "Software Craftman"

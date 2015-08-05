@@ -5,7 +5,7 @@ title = "About"
 	weight = 1
 +++
 
-<img src="/about/avatar.png" width="200px" height="200px"  />
+
 I'm a software craftsman working at [Viaboxx](http://www.viaboxx.de). Before that I was pursuing my Ph.D. in Computer Science at the University of Bonn, Germany. My main area of research is software visualization, program comprehension and gamification.
 
 I'm the organiser of the local [Softwerkskammer](http://www.softwerkskammer.de) (since 2013) and co-organiser of the [Bonn Agile Meetup](http://bonnagile.de/) (since 2011).
