@@ -1,0 +1,25 @@
+baseurl = "http://nonnen.io"
+languageCode = "de-DE"
+
+title = "jan nonnen"
+copyright = "Jan Nonnen"
+theme = "hyde"
+
+canonifyurls = true
+paginate = 10
+[Permalinks]
+	post = "/:year/:month/:filename/"
+	code = "/:filename/"
+
+[author]
+  name = "Jan Nonnen"
+
+[params]
+  themeColor = "theme-base-0b"
+  description = "Software Craftman"
+  Author = "Jan Nonnen"
+  email = "jan@nonnen.io"
+  twitter = "https://twitter.com/jnonnen"
+	github = "https://github.com/helvalius"
+	gplus = "https://plus.google.com/+JanNonnen"
+#	disqus = ""
