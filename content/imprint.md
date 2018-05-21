@@ -9,18 +9,18 @@ title = "Imprint/Impressum"
 Angaben gemäß § 5 TMG
 
 Jan Nonnen <br/>
-Meindorferstrasse 286  <br/>
-53757 Sankt Augustin <br/>
+Alte Poststr. 4a  <br/>
+53639 Königswinter - Stieldorf<br/>
 
 # Kontakt
 
-Telefon: 02241 8799818  <br/>
+Telefon: 0173 2172346  <br/>
 E-Mail: [jan@nonnen.io] (mailto:jan@nonnen.io) <br/>
 Internetadresse: http://nonnen.io <br/>
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-Jan Nonnen, Meindorferstrasse 286, 53757 Sankt Augustin
+Jan Nonnen, Alte Poststr. 4a , 53639 Königswinter - Stieldorf
 
 # Haftungsausschluss
 

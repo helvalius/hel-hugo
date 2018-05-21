@@ -1,4 +1,4 @@
-Copyright &copy; {{ dateFormat "2006" .Now }}   {{ $.Site.Author.name }} - <a href='{{ ref . "imprint.md" }}'>Impressum</a>
+Copyright &copy; {{ now.Format "2006"}}   {{ $.Site.Author.name }} - <a href='{{ ref . "imprint.md" }}'>Impressum</a> <a href='{{ ref . "data-protection.md" }}'>Datenschutz</a>
 
 <br/>
 
