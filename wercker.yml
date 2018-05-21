@@ -3,9 +3,8 @@ build:
   steps:
     - arjen/hugo-build:
         version: "0.40.3"
-        theme: redlounge
-        config: second-config.toml
-        flags: --disableKinds=["sitemap"]
+        theme: greyshade
+        config: config.toml
 deploy:
   steps:
     - install-packages:
