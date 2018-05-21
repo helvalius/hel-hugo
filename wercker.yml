@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: "0.40.3"
-        theme: greyshade
+        theme: academic 
         config: config.toml
 deploy:
   steps:
