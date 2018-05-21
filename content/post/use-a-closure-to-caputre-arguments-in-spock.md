@@ -1,7 +1,13 @@
----
-title: "Use a Closure to capture arguments in Spock"
-date: "2013-03-26"
----
++++
+title = "Use a Closure to capture arguments in Spock"
+date = 2013-03-26
+math = false
+highlight = true
+draft = false
+tags = []
+categories = []
+preview = false
++++
 
 Just today I have added Groovy tests using [Spock](http://code.google.com/p/spock/) to my maven/tycho build Eclipse plugin. During test migration from [FEST-Assertions](https://github.com/alexruiz/fest-assert-2.x) & [Mockito](http://code.google.com/p/mockito/) I wondered how argument interception in Spock works.
 

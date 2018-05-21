@@ -1,9 +1,12 @@
----
-title: "Coding Dojo Bonn January 2014"
-date: "2014-01-04"
-categories:
-  - "Softwerkskammer"
----
++++
+title = "Coding Dojo Bonn January 2014"
+date = 2014-01-04
+math = false
+highlight = false
+tags = []
+categories = []
++++
+
 
 In the first dojo of 2014 on Thursday 16th  we continue working on the Potter Kata.
 

@@ -1,7 +1,14 @@
----
-title: "Steam Adds Virtual Trading Cards"
-date: "2013-05-20"
----
++++
+title = "Steam Adds Virtual Trading Cards"
+date = 2013-05-20
+math = false
+highlight = false
+draft = false
+tags = []
+categories = []
+preview = false
++++
+
 # Steam Adds Virtual Trading Cards for Playing
 
 A few days ago, Valve announced the addition of [Steam Trading Cards](http://steamcommunity.com/tradingcards/) for Steam. This adds another layer of game elements to the Steam platform.

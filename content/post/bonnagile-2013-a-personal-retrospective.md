@@ -1,9 +1,12 @@
----
-title: "BonnAgile 2013 - A Personal Retrospective"
-date: "2014-01-06"
-categories:
-  - "BonnAgile"
----
++++
+title = "BonnAgile 2013 - A Personal Retrospective"
+date = 2014-01-06
+math = false
+highlight = false
+tags = []
+categories = []
++++
+
 (Disclaimer: The following text represents my personal opinion only)
 
 2013 is over and we are approaching the 3-year anniversary with our Bonn Agile meetup in February. A good time to make a retrospective what we did in the last year and maybe think about challenges in the new year.

@@ -1,7 +1,14 @@
----
-title: "This Blog"
-date: "2013-01-02"
----
++++
+title = "This Blog"
+date = 2013-01-02
+math = false
+highlight = false
+draft = false
+tags = []
+categories = []
+preview = false
+
++++
 
 The topics of this blog will mainly be based on:
 

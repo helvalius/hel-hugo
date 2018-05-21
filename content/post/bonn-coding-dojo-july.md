@@ -1,7 +1,13 @@
----
-title: "Bonn Coding Dojo July"
-date: "2013-07-22"
----
++++
+title = "Bonn Coding Dojo July"
+date = 2013-07-22
+math = false
+highlight = false
+draft = false
+tags = []
+categories = []
+preview = false
++++
 
 ## What is a Coding Dojo
 A Coding Dojo is a developer meet-up in which they work together in a pre-selected small programming challenge. This is a great way for developers to improve their skills and it's a great activity to encourage learning between developers. Especially in our case, we wanted to have an environment where our students and developers working in companies can learn together and from each other.
@@ -39,15 +45,3 @@ All interested students or developers are welcome! I'll post the event in the Co
 
 If you can't make it, don't worry. The plan is to organize (based on interest) at least a dojo per month. The monthly meeting will be on the 3rd Thursday each month.
 
-[Google+ Community](https://plus.google.com/communities/117465553333690535719)
-<!-- Place this tag where you want the widget to render. -->
-<div class="g-community" data-href="https://plus.google.com/communities/117465553333690535719" data-layout="landscape"></div>
-
-<!-- Place this tag after the last widget tag. -->
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-    po.src = 'https://apis.google.com/js/plusone.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
